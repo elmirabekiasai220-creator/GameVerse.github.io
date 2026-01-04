@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Elmira Bekiasai"
-  avatar           : "/assets/images/prof.jpg"
-  bio              : IUST computer engineering student
+  name             : "GameVerse"
+  avatar           : "/assets/images/GameVerse-logo.png"
+  bio              : A place where you play your dreams
   location         : "Tehran"
   email            : elmirabekiasai220@gmail.com
 
