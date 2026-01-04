@@ -2,13 +2,13 @@
 layout: single
 author_profile: true
 permalink: /links/
-title: Links
-tags: [Studying, courses]
-modified: 9-14-2019
+title: Contact
+tags: [Telegram , Github]
+modified: 1-4-2026
 comments: false
 ---
 
 
-* [My home city](https://en.wikipedia.org/wiki/Tehran)
-* [My university](https://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology)
+* [Github](https://github.com/elmirabekiasai220-creator/GameVerse.github.io.git)
+* [Telegram](http://t.me/elmira_1130)
 
