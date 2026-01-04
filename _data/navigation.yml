@@ -10,8 +10,6 @@ main:
     url: /links/
   - title: "Hobbies"
     url: /hobbies/  
-  - title: "Gallery"
-    url: /gallery/
   - title: "Blog"
     url: /blog/
   # - title: "About"
