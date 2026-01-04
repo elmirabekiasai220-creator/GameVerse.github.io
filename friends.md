@@ -1,17 +1,17 @@
 ---
 layout: single
 author_profile: true
-permalink: /friends/
-title: My friends around the world
-tags: [friends]
-modified: 4-10-2019
+permalink: /members/
+title: main members
+tags: [members]
+modified: 1-4-2025
 comments: true
 ---
 
 ### همکلاسی‌ها
-* [ریحان شعبانی](http://ReyhanShabani.github.io)
-* فاطمه عباسی
-* شبنم صفاری
+* [ Reyhan Shabani](http://ReyhanShabani.github.io)
+* Shabnam Saffari
+* Fatemeh Karimi 
 
 
 

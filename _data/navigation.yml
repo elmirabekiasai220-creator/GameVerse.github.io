@@ -2,8 +2,8 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "Friends"
-    url: /friends/
+  - title: "members"
+    url: /members/
   - title: "Links"
     url: /links/
   # - title: "About"
