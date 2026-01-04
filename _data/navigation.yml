@@ -3,7 +3,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "members"
-    url: /members/
+    url: /friends/
   - title: "Links"
     url: /links/
   # - title: "About"
