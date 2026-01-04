@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /friends/
 title: main members
-tags: [members]
+tags: [friends]
 modified: 1-4-2025
 comments: true
 ---
