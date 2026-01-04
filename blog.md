@@ -2,8 +2,8 @@
 layout: posts
 author_profile: true
 permalink: /blog/
-title: Blog Posts
-tags: [blog]
-modified: 3-10-2019
+title: Products
+tags: [Products]
+modified: 1-4-2025
 comments: true
 ---

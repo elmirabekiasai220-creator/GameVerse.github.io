@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Blog"
+  - title: "Products"
     url: /blog/
-  - title: "members"
+  - title: "Members"
     url: /friends/
-  - title: "Links"
+  - title: "Contact"
     url: /links/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
