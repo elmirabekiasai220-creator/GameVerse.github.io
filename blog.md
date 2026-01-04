@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: products
 author_profile: true
 permalink: /blog/
 title: Products
